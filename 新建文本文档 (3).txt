@@ -1,0 +1,18 @@
+十一的学习任务：
+
+1.写入党申请书
+2.完成Gitbook
+3.写cooc课程
+4.写500字android内容的博客（师兄任务）
+5.开始研究java中的嵌入式数据库
+6.完成android中this,回调函数，接口回调，Content，View
+
+
+
+日报：
+1.修改了Gitbook课件，增加了Github与Gitbook之间的关系，还有Gitbook中也可以进行授权，所以在授权上用Github或Gitbook中都可以，这个我试过了。新修改的课件我放在附件里了，老师如果需要更改再告诉我就行。
+2.学习android中的SeekingBar和RatingBar组件。
+3.看论文写作Steps to effective writing中的organization部分。
+
+
+学习android中实现多线程的两种方式：继承thread类和实现Runnable接口。
