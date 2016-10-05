@@ -1,0 +1,6 @@
+git config user.email "这个是邮箱"
+git config user.name "你的名字"
+
+
+fatal the current branch master has no upstream branch：
+git push -u origin master
